@@ -1,0 +1,13 @@
+body {
+    background-color: rgb(10, 2, 77);
+    color: rgb(226, 231, 231);
+  }
+
+  .header {
+    font-size: 5vw;
+    text-align: center;
+    background-color: rgb(6, 6, 24);
+  }
+  .container-fluid{
+    background-color: rgba(10, 54, 104, 0.089);
+  }
